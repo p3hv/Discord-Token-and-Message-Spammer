@@ -1,7 +1,7 @@
 
 # Discord Spammer 0.5 (Python)
 
-<img width="1921" height="797" alt="1" src="https://github.com/user-attachments/assets/8feb3e00-873a-4c9b-a2b4-7c9e6de99e64" />
+<img width="1921" height="797" alt="main" src="https://github.com/user-attachments/assets/9ef5daee-a34e-4541-aafc-ed32f52da181" />
 
 
 ## About
@@ -18,11 +18,12 @@ The **Discord $pammer** is a tool designed to send multiple messages quickly and
 
 ## example usages (first footage from version 0.4 but still the same functionality)
 
-https://github.com/user-attachments/assets/a6086d3d-588f-4077-a9c0-fd08d8bb7bb7
+https://github.com/user-attachments/assets/91920e15-8670-40d1-bfe4-5b4862cba498
 
-https://github.com/user-attachments/assets/261abc19-43e3-42bf-ac03-e8c388c7babc
+https://github.com/user-attachments/assets/a3d431d8-315b-486d-a14b-5d7b857b1745
 
-https://github.com/user-attachments/assets/5950ffb1-5e54-44cb-8866-fb1826fdd321
+https://github.com/user-attachments/assets/57e7b35f-fd2f-48f4-86cf-be3ca3454911
+
 
 ---
 ### Notes
